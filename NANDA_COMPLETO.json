@@ -1,5 +1,3 @@
-DOMINIO 1
-
 [
   {
     "codigo": "00355",
@@ -729,12 +727,6 @@ DOMINIO 1
     ]
   }
 ]
-
-
-
-
-DOMÍNIO 2: Nutrição
-
 [
   {
     "codigo": "00343",
@@ -1426,12 +1418,6 @@ DOMÍNIO 2: Nutrição
     ]
   }
 ]
-
-
-
-
-DOMÍNIO 3: Eliminação e troca
-
 [
   {
     "codigo": "00016",
@@ -2004,10 +1990,6 @@ DOMÍNIO 3: Eliminação e troca
     ]
   }
 ]
-
-
-Domínio 4 – Atividade/Repouso
-
 [
   {
     "codigo": "00337",
@@ -3331,10 +3313,6 @@ Domínio 4 – Atividade/Repouso
     "fatores_relacionados": []
   }
 ]
-
-
-DOMÍNIO 5: Percepção/Cognição
-
 [
   {
     "codigo": "00128",
@@ -3752,10 +3730,6 @@ DOMÍNIO 5: Percepção/Cognição
     "fatores_relacionados": []
   }
 ]
-
-
-Domínio 6 – Autopercepção
-
 [
   {
     "codigo": "00167",
@@ -4683,8 +4657,6 @@ Domínio 6 – Autopercepção
     ]
   }
 ]
-Domínio 10 – Princípios da vida
-
 [
   {
     "codigo": "00284",
@@ -4794,9 +4766,6 @@ Domínio 10 – Princípios da vida
     "fatores_relacionados": []
   }
 ]
-
-Domínio 11 – Segurança/Proteção
-
 [
   {
     "codigo": "00004",
@@ -5465,8 +5434,6 @@ Domínio 11 – Segurança/Proteção
     ]
   }
 ]
-Domínio 12 – Conforto
-
 [
   {
     "codigo": "00237",
@@ -5711,8 +5678,6 @@ Domínio 12 – Conforto
     "fatores_relacionados": []
   }
 ]
-Domínio 13 – Crescimento/Desenvolvimento
-
 [
   {
     "codigo": "00248",
