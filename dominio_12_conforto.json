@@ -1,0 +1,176 @@
+[
+  {
+    "codigo": "00237",
+    "titulo": "Conforto físico prejudicado",
+    "definicao": "Percepção de falta de conforto físico em um ou mais sistemas corporais.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Expressa desconforto físico"
+    ],
+    "fatores_relacionados": [
+      "Doença aguda ou crônica"
+    ]
+  },
+  {
+    "codigo": "00238",
+    "titulo": "Disposição para conforto físico melhorado",
+    "definicao": "Padrão adaptativo de percepção de bem-estar físico que pode ser fortalecido.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de reduzir desconforto físico"
+    ],
+    "fatores_relacionados": []
+  },
+  {
+    "codigo": "00239",
+    "titulo": "Síndrome do conforto prejudicado no fim da vida",
+    "definicao": "Conjunto de sintomas físicos, emocionais, sociais e espirituais que interferem no conforto de uma pessoa no fim da vida.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Dor não controlada"
+    ],
+    "fatores_relacionados": [
+      "Doença terminal"
+    ]
+  },
+  {
+    "codigo": "00132",
+    "titulo": "Dor aguda",
+    "definicao": "Experiência sensitiva e emocional desagradável associada a dano tecidual real ou potencial, com início súbito e duração inferior a três meses.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Expressa dor de início recente"
+    ],
+    "fatores_relacionados": [
+      "Lesões traumáticas"
+    ]
+  },
+  {
+    "codigo": "00133",
+    "titulo": "Síndrome da dor crônica",
+    "definicao": "Experiência prolongada de dor persistente e recorrente que afeta negativamente o funcionamento físico, emocional e social.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Expressa dor contínua há mais de 3 meses"
+    ],
+    "fatores_relacionados": [
+      "Doença crônica"
+    ]
+  },
+  {
+    "codigo": "00134",
+    "titulo": "Dor crônica",
+    "definicao": "Experiência sensorial e emocional desagradável, persistente por mais de três meses, associada a dano tecidual real ou potencial.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Expressa dor contínua ou recorrente"
+    ],
+    "fatores_relacionados": [
+      "Doenças degenerativas"
+    ]
+  },
+  {
+    "codigo": "00240",
+    "titulo": "Dor no trabalho de parto",
+    "definicao": "Experiência sensorial e emocional associada à contração uterina e dilatação cervical durante o parto.",
+    "dominio": "12 - Conforto",
+    "classe": "1 - Conforto físico",
+    "caracteristicas_definidoras": [
+      "Expressa dor intensa durante as contrações"
+    ],
+    "fatores_relacionados": [
+      "Trabalho de parto ativo"
+    ]
+  },
+  {
+    "codigo": "00241",
+    "titulo": "Disposição para conforto social melhorado",
+    "definicao": "Padrão adaptativo de bem-estar social que pode ser fortalecido.",
+    "dominio": "12 - Conforto",
+    "classe": "3 - Conforto social",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de melhorar suas conexões sociais"
+    ],
+    "fatores_relacionados": []
+  },
+  {
+    "codigo": "00242",
+    "titulo": "Conexão social inadequada",
+    "definicao": "Percepção de vínculos fracos ou insatisfatórios com outras pessoas ou grupos.",
+    "dominio": "12 - Conforto",
+    "classe": "3 - Conforto social",
+    "caracteristicas_definidoras": [
+      "Expressa sentimento de isolamento"
+    ],
+    "fatores_relacionados": [
+      "Mudança de ambiente"
+    ]
+  },
+  {
+    "codigo": "00243",
+    "titulo": "Rede de apoio social inadequada",
+    "definicao": "Suporte emocional, informacional ou prático insuficiente por parte de pessoas ou instituições.",
+    "dominio": "12 - Conforto",
+    "classe": "3 - Conforto social",
+    "caracteristicas_definidoras": [
+      "Expressa falta de apoio em momentos difíceis"
+    ],
+    "fatores_relacionados": [
+      "Isolamento geográfico"
+    ]
+  },
+  {
+    "codigo": "00244",
+    "titulo": "Solidão excessiva",
+    "definicao": "Sentimento subjetivo de desconexão social, mesmo na presença de outras pessoas.",
+    "dominio": "12 - Conforto",
+    "classe": "3 - Conforto social",
+    "caracteristicas_definidoras": [
+      "Expressa sentimento de estar sozinho"
+    ],
+    "fatores_relacionados": [
+      "Viuvez"
+    ]
+  },
+  {
+    "codigo": "00245",
+    "titulo": "Risco de solidão excessiva",
+    "definicao": "Vulnerável ao sentimento subjetivo de desconexão social, o que pode comprometer o bem-estar emocional.",
+    "dominio": "12 - Conforto",
+    "classe": "3 - Conforto social",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Isolamento geográfico"
+    ]
+  },
+  {
+    "codigo": "00246",
+    "titulo": "Conforto psicológico prejudicado",
+    "definicao": "Percepção de sofrimento emocional ou psicológico que compromete a sensação de bem-estar.",
+    "dominio": "12 - Conforto",
+    "classe": "4 - Conforto psicológico",
+    "caracteristicas_definidoras": [
+      "Expressa sentimentos de medo, angústia ou desamparo"
+    ],
+    "fatores_relacionados": [
+      "Eventos estressantes"
+    ]
+  },
+  {
+    "codigo": "00247",
+    "titulo": "Disposição para conforto psicológico melhorado",
+    "definicao": "Padrão adaptativo de percepção de bem-estar emocional que pode ser fortalecido.",
+    "dominio": "12 - Conforto",
+    "classe": "4 - Conforto psicológico",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de superar sentimentos negativos"
+    ],
+    "fatores_relacionados": []
+  }
+]

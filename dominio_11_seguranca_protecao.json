@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": "00004",
+    "titulo": "Resposta imune prejudicada",
+    "definicao": "Capacidade diminuída de resistir ou eliminar um agente invasor.",
+    "dominio": "11 - Segurança/proteção",
+    "classe": "1 - Infecção",
+    "caracteristicas_definidoras": [
+      "Histórico de infecções recorrentes",
+      "Infecção ativa",
+      "Alterações laboratoriais que indicam imunodeficiência"
+    ],
+    "fatores_relacionados": [
+      "Imunossupressores",
+      "Condições crônicas",
+      "Deficiências nutricionais",
+      "Tratamentos imunossupressores"
+    ]
+  }
+]

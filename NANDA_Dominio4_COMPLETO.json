@@ -1,0 +1,49 @@
+[
+  {
+    "codigo": "00199",
+    "titulo": "Síndrome da habilidade de autocuidado diminuída",
+    "definicao": "Capacidade diminuída para realizar ou completar sozinha as atividades de autocuidado.",
+    "dominio": "4 - Atividade/Repouso",
+    "classe": "5 - Autocuidado",
+    "caracteristicas_definidoras": [
+      "Necessidade de ajuda para realizar atividades básicas de autocuidado",
+      "Execução parcial de tarefas de higiene, alimentação, vestuário e eliminação",
+      "Dependência para banho e higiene pessoal",
+      "Necessidade de auxílio para uso do vaso sanitário",
+      "Necessidade de supervisão constante"
+    ],
+    "fatores_relacionados": [
+      "Declínio cognitivo",
+      "Déficit neuromuscular",
+      "Fraqueza física generalizada",
+      "Condições médicas debilitantes"
+    ]
+  },
+  {
+    "codigo": "00204",
+    "titulo": "Risco de síndrome da habilidade de autocuidado diminuída",
+    "definicao": "Susceptibilidade a capacidade diminuída para realizar ou completar sozinha as atividades de autocuidado.",
+    "dominio": "4 - Atividade/Repouso",
+    "classe": "5 - Autocuidado",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Déficit cognitivo leve",
+      "Envelhecimento",
+      "Mobilidade física prejudicada",
+      "Comorbidades crônicas múltiplas"
+    ]
+  },
+  {
+    "codigo": "00205",
+    "titulo": "Disposição para habilidades de autocuidado melhoradas",
+    "definicao": "Padrão de realização das atividades de autocuidado que pode ser fortalecido.",
+    "dominio": "4 - Atividade/Repouso",
+    "classe": "5 - Autocuidado",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de realizar as tarefas de autocuidado de forma independente",
+      "Demonstra motivação para desenvolver maior autonomia nas AVDs",
+      "Mostra iniciativa para aprender ou aprimorar atividades de autocuidado"
+    ],
+    "fatores_relacionados": []
+  }
+]

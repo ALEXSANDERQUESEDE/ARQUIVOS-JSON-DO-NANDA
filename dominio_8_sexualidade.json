@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "00059",
+    "titulo": "Função sexual prejudicada",
+    "definicao": "...",
+    "dominio": "8 - Sexualidade",
+    "classe": "2 - Função sexual",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  },
+  {
+    "codigo": "00270",
+    "titulo": "Risco de binômio mãe-feto prejudicado",
+    "definicao": "...",
+    "dominio": "8 - Sexualidade",
+    "classe": "3 - Reprodução",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "..."
+    ]
+  }
+]

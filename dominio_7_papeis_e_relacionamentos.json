@@ -1,0 +1,41 @@
+[
+  {
+    "codigo": "00260",
+    "titulo": "Comportamentos parentais prejudicados",
+    "definicao": "...",
+    "dominio": "7 - Papéis e relacionamentos",
+    "classe": "1 - Papéis do cuidador",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  },
+  {
+    "codigo": "00063",
+    "titulo": "Padrões de interação familiar conturbados",
+    "definicao": "...",
+    "dominio": "7 - Papéis e relacionamentos",
+    "classe": "2 - Relações familiares",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  },
+  {
+    "codigo": "00055",
+    "titulo": "Desempenho de papel ineficaz",
+    "definicao": "...",
+    "dominio": "7 - Papéis e relacionamentos",
+    "classe": "3 - Desempenho de papéis",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  }
+]

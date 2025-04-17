@@ -1,0 +1,90 @@
+[
+  {
+    "codigo": "00167",
+    "titulo": "Disposição para autoconceito melhorado",
+    "definicao": "Padrão adaptativo de percepção e valorização de si mesmo, que pode ser fortalecido.",
+    "dominio": "6 - Autopercepção",
+    "classe": "1 - Autoconceito",
+    "caracteristicas_definidoras": [
+      "Desejo de melhorar a autoimagem",
+      "Expressa vontade de melhorar a aceitação de si mesmo",
+      "Comportamento consistente com objetivos expressos de crescimento pessoal"
+    ],
+    "fatores_relacionados": []
+  },
+  {
+    "codigo": "00129",
+    "titulo": "Identidade pessoal conturbada",
+    "definicao": "Incapacidade de manter uma imagem do eu unificada e consistente.",
+    "dominio": "6 - Autopercepção",
+    "classe": "1 - Autoconceito",
+    "caracteristicas_definidoras": [
+      "Relato de mudança na visão de si mesmo",
+      "Expressa incerteza sobre limites pessoais",
+      "Expressa confusão sobre valores e objetivos",
+      "Alteração nos padrões de comportamento",
+      "Dificuldade em tomar decisões"
+    ],
+    "fatores_relacionados": [
+      "Conflitos de papéis",
+      "Perda de emprego ou status",
+      "Doença ou incapacidade crônica",
+      "Estresse situacional"
+    ]
+  },
+  {
+    "codigo": "00171",
+    "titulo": "Síndrome da identidade familiar conturbada",
+    "definicao": "Mudança na percepção e/ou realidade do papel e da identidade da unidade familiar.",
+    "dominio": "6 - Autopercepção",
+    "classe": "1 - Autoconceito",
+    "caracteristicas_definidoras": [
+      "Expressa sofrimento relacionado à mudança nos papéis familiares",
+      "Confusão quanto às funções dentro da família",
+      "Mudança nas interações familiares"
+    ],
+    "fatores_relacionados": [
+      "Doença aguda ou crônica em um membro da família",
+      "Mudança na estrutura familiar",
+      "Mudança no status econômico"
+    ]
+  },
+  {
+    "codigo": "00172",
+    "titulo": "Risco de síndrome da identidade familiar conturbada",
+    "definicao": "Vulnerável à mudança na percepção e/ou realidade do papel e da identidade da unidade familiar, que pode comprometer o funcionamento da família.",
+    "dominio": "6 - Autopercepção",
+    "classe": "1 - Autoconceito",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Mudança antecipada na estrutura familiar",
+      "Estresse familiar"
+    ]
+  },
+  {
+    "codigo": "00256",
+    "titulo": "Risco de dignidade humana prejudicada",
+    "definicao": "Vulnerável a sentir que a própria autoestima e respeito são ameaçados, o que pode comprometer a saúde.",
+    "dominio": "6 - Autopercepção",
+    "classe": "1 - Autoconceito",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Internação hospitalar",
+      "Estigmatização social",
+      "Perda de autonomia"
+    ]
+  },
+  {
+    "codigo": "00257",
+    "titulo": "Disposição para identidade social como pessoa transgênero melhorada",
+    "definicao": "Padrão adaptativo de afirmação, integração e expressão da identidade como pessoa transgênero, que pode ser fortalecido.",
+    "dominio": "6 - Autopercepção",
+    "classe": "1 - Autoconceito",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de integrar a identidade de gênero à vida social",
+      "Busca de apoio para afirmação de identidade",
+      "Comportamento consistente com afirmação de gênero"
+    ],
+    "fatores_relacionados": []
+  }
+]

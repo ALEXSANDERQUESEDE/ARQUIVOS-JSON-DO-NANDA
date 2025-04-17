@@ -1,0 +1,161 @@
+[
+  {
+    "codigo": "00128",
+    "titulo": "Confusão aguda",
+    "definicao": "Alterações reversíveis de consciência, atenção, cognição e percepção que surgem em um período de tempo breve, com duração inferior a 3 meses.",
+    "dominio": "5 - Percepção/Cognição",
+    "classe": "4 - Cognição",
+    "caracteristicas_definidoras": [
+      "Agitação psicomotora",
+      "Alucinações",
+      "Atenção prejudicada",
+      "Concentração prejudicada",
+      "Desorientação em relação ao local",
+      "Desorientação em relação ao tempo",
+      "Desorientação em relação à pessoa",
+      "Flutuações na atividade psicomotora",
+      "Hipersensibilidade",
+      "Humor irritável",
+      "Ilusões",
+      "Inquietação",
+      "Lentidão psicomotora",
+      "Memória prejudicada",
+      "Movimentos repetitivos",
+      "Níveis flutuantes de consciência",
+      "Pensamento desorganizado"
+    ],
+    "fatores_relacionados": [
+      "Abuso de substâncias",
+      "Comportamentos sedentários",
+      "Deficiência de vitamina B12 não abordada",
+      "Desnutrição proteico-calórica",
+      "Dor intensa",
+      "Hipertermia",
+      "Privação de sono não abordada",
+      "Privação sensorial ambiental",
+      "Retenção urinária",
+      "Superestimulação sensorial ambiental",
+      "Uso inapropriado de contenção física",
+      "Volume de líquidos inadequado"
+    ]
+  },
+  {
+    "codigo": "00173",
+    "titulo": "Risco de confusão aguda",
+    "definicao": "Suscetibilidade a alterações reversíveis de consciência, atenção, cognição e percepção que surgem em um período de tempo breve.",
+    "dominio": "5 - Percepção/Cognição",
+    "classe": "4 - Cognição",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Abuso de substâncias",
+      "Comportamentos sedentários",
+      "Deficiência de vitamina B12 não abordada",
+      "Desnutrição proteico-calórica",
+      "Dor intensa",
+      "Hipertermia",
+      "Privação de sono não abordada",
+      "Privação sensorial ambiental",
+      "Retenção urinária",
+      "Superestimulação sensorial ambiental",
+      "Uso inapropriado de contenção física",
+      "Volume de líquidos inadequado"
+    ]
+  },
+  {
+    "codigo": "00129",
+    "titulo": "Confusão crônica",
+    "definicao": "Alterações irreversíveis, progressivas e insidiosas de consciência, atenção, cognição e percepção, com duração superior a 3 meses.",
+    "dominio": "5 - Percepção/Cognição",
+    "classe": "4 - Cognição",
+    "caracteristicas_definidoras": [
+      "Afrouxamento das associações",
+      "Bloqueio de pensamentos",
+      "Dificuldade em recuperar informações ao falar",
+      "Dificuldade em tomar decisões",
+      "Discurso tangencial",
+      "Fala incoerente",
+      "Habilidades de função executiva prejudicadas",
+      "Incapacidade de realizar pelo menos uma atividade cotidiana",
+      "Mudança de comportamento",
+      "Neologismos",
+      "Perda de memória de curto prazo",
+      "Perda de memória de longo prazo",
+      "Personalidade alterada",
+      "Pobreza de fala",
+      "Repetição de comportamentos",
+      "Ruminação mental"
+    ],
+    "fatores_relacionados": [
+      "Abuso de substâncias",
+      "Comportamentos sedentários",
+      "Consumo excessivo de álcool",
+      "Estimulação sensorial ambiental inadequada",
+      "Tristeza crônica"
+    ]
+  },
+  {
+    "codigo": "00222",
+    "titulo": "Controle de impulsos ineficaz",
+    "definicao": "Padrão de reações insatisfatórias, rápidas, não planejadas e incontroláveis a estímulos internos ou externos sem considerar as consequências negativas.",
+    "dominio": "5 - Percepção/Cognição",
+    "classe": "4 - Cognição",
+    "caracteristicas_definidoras": [
+      "Busca de sensações",
+      "Compartilhamento inapropriado de detalhes pessoais",
+      "Comportamento perigoso",
+      "Explosões de temperamento",
+      "Familiaridade excessiva com estranhos",
+      "Fazer perguntas pessoais a despeito do desconforto dos outros",
+      "Habilidade prejudicada de regular as finanças",
+      "Humor irritável",
+      "Procrastinação na hora de dormir",
+      "Promiscuidade sexual",
+      "Supressão do processo volitivo",
+      "Vício em jogos de apostas"
+    ],
+    "fatores_relacionados": [
+      "Abuso de substâncias",
+      "Comunicação verbal prejudicada",
+      "Confusão",
+      "Desesperança",
+      "Memória prejudicada",
+      "Transtornos de humor",
+      "Uso de tabaco"
+    ]
+  },
+  {
+    "codigo": "00493",
+    "titulo": "Processos de pensamento conturbados",
+    "definicao": "Perturbação nos processos mentais envolvidos no desenvolvimento de conceitos e categorias, raciocínio e solução de problemas.",
+    "dominio": "5 - Percepção/Cognição",
+    "classe": "4 - Cognição",
+    "caracteristicas_definidoras": [
+      "Dificuldade em comunicar-se verbalmente",
+      "Dificuldade em controlar os impulsos",
+      "Dificuldade em desempenhar os papéis sociais esperados",
+      "Dificuldade em encontrar soluções para situações cotidianas",
+      "Dificuldade em planejar atividades",
+      "Dificuldade em realizar atividades instrumentais da vida diária",
+      "Dificuldade em tomar decisões",
+      "Interpretação de acontecimentos prejudicada",
+      "Julgamento prejudicado",
+      "Obsessões",
+      "Pensamentos irreais",
+      "Resposta emocional inadequada a situações",
+      "Sequência de pensamento desorganizada",
+      "Suspeições"
+    ],
+    "fatores_relacionados": [
+      "Abuso de substâncias",
+      "Ansiedade excessiva",
+      "Confusão aguda",
+      "Desorientação",
+      "Dor",
+      "Estresse excessivo",
+      "Luto desadaptativo",
+      "Medo excessivo",
+      "Sintomas depressivos não psicóticos",
+      "Trauma não abordado"
+    ]
+  }
+]

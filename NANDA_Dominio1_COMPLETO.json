@@ -1,0 +1,72 @@
+[
+  {
+    "codigo": "00355",
+    "titulo": "Comportamentos sedentários excessivos",
+    "definicao": "Padrão insatisfatório de atividade durante as horas de vigília, com baixo gasto de energia.",
+    "dominio": "1 - Promoção da saúde",
+    "classe": "1 - Percepção da saúde",
+    "caracteristicas_definidoras": [
+      "Desempenha a maioria das tarefas em postura reclinada",
+      "Desempenha a maioria das tarefas em postura sentada",
+      "Escolhe uma rotina diária sem exercício físico",
+      "Inatividade prolongada",
+      "Média de atividade física diária inferior à recomendada para idade e sexo",
+      "Não se exercita durante o tempo livre",
+      "Prefere baixa atividade física"
+    ],
+    "fatores_relacionados": [
+      "Apoio social inadequado",
+      "Autoeficácia inadequada",
+      "Autoestima inadequada",
+      "Conflito entre crenças culturais e práticas de saúde",
+      "Conhecimento inadequado das consequências do sedentarismo",
+      "Conhecimento inadequado dos benefícios à saúde associados à atividade física",
+      "Dificuldade em adaptar áreas para atividade física",
+      "Dor",
+      "Emoção negativa em relação à atividade física",
+      "Excede o tempo de tela recomendado para a idade",
+      "Habilidades de manejo do tempo inadequadas",
+      "Interesse inadequado em atividades físicas",
+      "Mobilidade física prejudicada",
+      "Modelos de comportamento inadequados",
+      "Motivação inadequada para atividade física",
+      "Percepção de deficiência física",
+      "Percepção de risco à segurança",
+      "Práticas parentais que inibem a atividade física da criança",
+      "Recursos inadequados para atividade física",
+      "Resistência física inadequada",
+      "Treinamento inadequado para fazer exercício físico"
+    ]
+  },
+  {
+    "codigo": "00394",
+    "titulo": "Risco de comportamentos sedentários excessivos",
+    "definicao": "Suscetibilidade a um padrão insatisfatório de atividade durante as horas de vigília, com baixo gasto de energia.",
+    "dominio": "1 - Promoção da saúde",
+    "classe": "1 - Percepção da saúde",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Apoio social inadequado",
+      "Autoeficácia inadequada",
+      "Autoestima inadequada",
+      "Conflito entre crenças culturais e práticas de saúde",
+      "Conhecimento inadequado das consequências do sedentarismo",
+      "Conhecimento inadequado dos benefícios à saúde associados à atividade física",
+      "Dificuldade em adaptar áreas para atividade física",
+      "Dor",
+      "Emoção negativa em relação à atividade física",
+      "Excede o tempo de tela recomendado para a idade",
+      "Habilidades de manejo do tempo inadequadas",
+      "Interesse inadequado em atividades físicas",
+      "Mobilidade física prejudicada",
+      "Modelos de comportamento inadequados",
+      "Motivação inadequada para atividade física",
+      "Percepção de deficiência física",
+      "Percepção de risco à segurança",
+      "Práticas parentais que inibem a atividade física da criança",
+      "Recursos inadequados para atividade física",
+      "Resistência física inadequada",
+      "Treinamento inadequado para fazer exercício físico"
+    ]
+  }
+]

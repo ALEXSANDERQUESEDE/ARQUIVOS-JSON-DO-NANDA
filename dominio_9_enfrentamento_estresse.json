@@ -1,0 +1,41 @@
+[
+  {
+    "codigo": "00141",
+    "titulo": "Síndrome pós-trauma",
+    "definicao": "...",
+    "dominio": "9 - Enfrentamento/tolerância ao estresse",
+    "classe": "1 - Respostas pós-trauma",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  },
+  {
+    "codigo": "00146",
+    "titulo": "Enfrentamento desadaptativo",
+    "definicao": "...",
+    "dominio": "9 - Enfrentamento/tolerância ao estresse",
+    "classe": "2 - Respostas de enfrentamento",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  },
+  {
+    "codigo": "00278",
+    "titulo": "Autoimagem inadequada",
+    "definicao": "...",
+    "dominio": "9 - Enfrentamento/tolerância ao estresse",
+    "classe": "3 - Respostas neurocomportamentais",
+    "caracteristicas_definidoras": [
+      "..."
+    ],
+    "fatores_relacionados": [
+      "..."
+    ]
+  }
+]

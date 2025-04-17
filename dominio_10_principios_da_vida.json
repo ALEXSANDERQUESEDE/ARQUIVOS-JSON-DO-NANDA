@@ -1,0 +1,109 @@
+[
+  {
+    "codigo": "00284",
+    "titulo": "Sofrimento moral",
+    "definicao": "Angústia causada por saber o que é certo, mas ser impedido de agir conforme isso, resultando em comprometimento da integridade moral.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [
+      "Expressa sentimentos de culpa por não ter agido de forma ética",
+      "Relato de conflito entre valores pessoais e ações tomadas",
+      "Angústia emocional intensa após decisões difíceis",
+      "Evitação de situações semelhantes no futuro"
+    ],
+    "fatores_relacionados": [
+      "Imposição de decisões externas",
+      "Conflito entre ética profissional e institucional",
+      "Falta de apoio para tomada de decisão moral"
+    ]
+  },
+  {
+    "codigo": "00066",
+    "titulo": "Bem-estar espiritual prejudicado",
+    "definicao": "Estado em que a pessoa experimenta sofrimento relacionado à busca de significado, propósito ou conexão com o transcendente.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [
+      "Expressa perda de sentido na vida",
+      "Isolamento espiritual",
+      "Angústia relacionada a crenças existenciais",
+      "Dificuldade para aceitar a condição atual de saúde"
+    ],
+    "fatores_relacionados": [
+      "Doença grave ou terminal",
+      "Perda de ente querido",
+      "Crise de fé",
+      "Sofrimento prolongado"
+    ]
+  },
+  {
+    "codigo": "00067",
+    "titulo": "Risco de bem-estar espiritual prejudicado",
+    "definicao": "Vulnerável a comprometimento da harmonia entre crenças, forças internas e conexão com o transcendente, que pode comprometer a saúde.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Mudanças súbitas nas circunstâncias de vida",
+      "Perda de autonomia",
+      "Falta de suporte religioso ou espiritual"
+    ]
+  },
+  {
+    "codigo": "00068",
+    "titulo": "Disposição para bem-estar espiritual melhorado",
+    "definicao": "Padrão adaptativo de integração entre crenças, sentido da vida e conexão espiritual que pode ser fortalecido.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de encontrar maior sentido na vida",
+      "Busca reconexão com crenças e práticas espirituais",
+      "Participa de atividades relacionadas à espiritualidade"
+    ],
+    "fatores_relacionados": []
+  },
+  {
+    "codigo": "00285",
+    "titulo": "Religiosidade prejudicada",
+    "definicao": "Dificuldade ou incapacidade de exercer ou integrar práticas e crenças religiosas na vida cotidiana.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [
+      "Expressa afastamento de práticas religiosas habituais",
+      "Conflito interno com crenças religiosas",
+      "Tristeza ou angústia por não poder praticar sua fé",
+      "Desconexão de comunidade religiosa"
+    ],
+    "fatores_relacionados": [
+      "Impedimentos físicos ou ambientais",
+      "Conflitos familiares ou sociais",
+      "Mudança de contexto cultural"
+    ]
+  },
+  {
+    "codigo": "00286",
+    "titulo": "Risco de religiosidade prejudicada",
+    "definicao": "Vulnerável a comprometimento na prática ou expressão de crenças religiosas, o que pode impactar o bem-estar espiritual.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [],
+    "fatores_relacionados": [
+      "Internação prolongada",
+      "Isolamento social",
+      "Falta de acesso a recursos religiosos"
+    ]
+  },
+  {
+    "codigo": "00287",
+    "titulo": "Disposição para religiosidade melhorada",
+    "definicao": "Padrão adaptativo de integração das crenças e práticas religiosas na vida, que pode ser fortalecido.",
+    "dominio": "10 - Princípios da vida",
+    "classe": "3 - Coerência entre valores/crenças/atos",
+    "caracteristicas_definidoras": [
+      "Expressa desejo de se reconectar com práticas religiosas",
+      "Participa de atividades da comunidade religiosa",
+      "Relata fortalecimento da fé"
+    ],
+    "fatores_relacionados": []
+  }
+]
